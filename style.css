@@ -49,3 +49,14 @@ h1 {
   color: #2c3e50;
 
 }
+
+.member-card-2nd {
+  background-color: #ffffff;
+  border-radius: 130px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 10px;
+  margin: 20px auto;
+  max-width: 950px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
