@@ -48,7 +48,7 @@
   </div>
 
   <div class="members">
-  <div class="member-card">
+  <div class="member-card-2nd">
     <h2>好き</h2>
     <h3><iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4zbncjzd1R9Qgu6nXsNlkH?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><h3>
     <p>
